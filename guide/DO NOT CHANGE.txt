@@ -1,0 +1,9 @@
+Be careful editing these files
+
+Prone to crashes when edited
+Mostly with the drawing aspect
+
+Each text or draw command requires x and y coords
+The system crashes when needed to draw more than 6 different images
+
+It is not recommened to replace images which are to be drawn as to leads to more crashes

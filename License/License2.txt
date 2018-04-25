@@ -1,0 +1,12 @@
+BattleBuddies is made by Robin Hallink.
+Student of Wasaskolan in Tingsryd and member of class TE10.
+This game is only available in English and is meant as a project for Programming C
+
+The game does require the file "alleg42.dll". If you don't have such file or if you are unsure, check it on when installing the game. Without this file there may be large chance the game will not start.
+If so, I suggest you reinstall the game with the proper settings checked.
+The game should auto-install the file, so if unsure: change nothing.
+
+
+With thanks to Tomas Nilsson, my programming teacher.
+My dad who did motivate me all the time, gave me general advice and who took care of the equipment I used.
+And Isak Skåre who brought me the idea of making this game.

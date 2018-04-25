@@ -1,0 +1,33 @@
+FEATURES
+--------
+
+* Pressing ESCAPE when not in the main menu will return you to the main menu
+  (does not work in main game or while in main menu)
+
+* The setting "Slowdown" can now be used up to 20, instead of 15
+
+* Sliders button can no longer be pressed when on their minimum or maximum values (Backup 32.2)
+
+
+
+FIXED
+-----
+
+* Fixed a bug where the map would not properly reset when in preparation mode (a small bug)
+
+* Some small text corections are made
+
+* Keyboard registering has been improved (for both ESCAPE and DELETE)
+
+* When pressing ESC with a unit selected, a selected unit will be deselected
+  Otherwise when pressing ESC will give a confirm to resign or resign the match
+
+* Pressing ESCAPE in the main menu now gives the correct sound
+
+
+PREFORMANCE
+-----------
+
+* Some major improvements to the main function which results in less code
+
+* Some improvements made when pressing the ESCAPE button in the main menu

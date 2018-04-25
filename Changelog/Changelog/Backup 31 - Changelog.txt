@@ -1,0 +1,48 @@
+FEATURES
+--------
+
+* Fullscreen mode supports 640x480 and 800x600 as a resolution
+
+* Players can kill their own units with the DELETE button, but only when that unit stands idle
+  Units must be selected when deleting them, deleting units also makes sound effects and explosions
+
+* Your current new resolution is displayed beside the resolution slider
+
+* An 15th slide had been added to the guide which explains some secret elements
+
+* A new outcome has added to the game when both players lose at the same time
+
+
+
+FIXED
+-----
+
+* Color Depth and Refresh can now be changed inside the game when editing it in *ini files
+
+* Fixed a critical error when entering the Highscore menu after the Help Menu had been visited
+
+* Switching to Fullscreen Mode resets the resolution to 640x480 as default (or will stay on 800x600 if it is the
+  current resolution) to prevent critical error.
+
+* The game will properly load a 640x480 or 800x600 resolution when entering game into Fullscreen Mode
+
+* The Pause Theme will now use the MIDI volume setting instead of the SOUND setting
+
+* Selected units will be deselected when pausing the game (prevents moving those units while in pause)
+
+* ini files will now properly reset then corrupted
+
+* The Light Tank's animation is fixed
+
+* The intro movie will always be played in 640x480, afterwards the settings resolution is used
+
+
+PREFORMANCE
+-----------
+
+* The game makes more use of unsigned char variables instead of int (for less memory usage)
+  int = 4 byte, unsigned char = 1 byte
+
+* Some improvements made to menu buttons which results in less code
+
+* Some small code improvements made concerning menu's and the Help menu's temp images

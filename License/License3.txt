@@ -1,0 +1,7 @@
+Have fun with the game.
+
+Should the game give any trouble, please reinstall the game.
+The game is not required to be installed, so a plug-and-play version should work fine
+(copying and pasting the directory)
+
+Don't worry when deleting any settings files (*ini) as the game will recreate them.
